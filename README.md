@@ -2,7 +2,7 @@
 Baixe os arquivos e vá em `AppData\Roaming\Chatterino2\Settings` e substitua os arquivos atuais.
 
 ### Downloads
-Eu utilizo o `Chatterino7` que é um fork do Chatterino2 com SevenTV, você pode baixar ele [aqui](https://github.com/SevenTV/chatterino7/releases)
+Eu utilizo o `Chatterino7` que é um fork do Chatterino2 com SevenTV, você pode baixar ele [aqui](https://github.com/SevenTV/chatterino7/releases) eu também recomendo utilizar a extensão do Chatterino para o navegador [chrome/outros ai](https://chrome.google.com/webstore/detail/chatterino-native-host/glknmaideaikkmemifbfkhnomoknepka) e [firefox](https://addons.mozilla.org/en-US/firefox/addon/chatterino-native-host/)
 
 ### Comandos de chat
 Lista de alguns comandos que existem na configuração, você pode utilizar o autocomplete apertando tab para utilizar rapidamente!
