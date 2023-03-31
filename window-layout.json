@@ -5,7 +5,7 @@
                 "x": 697,
                 "y": 200
             },
-            "height": 732,
+            "height": 661,
             "tabs": [
                 {
                     "highlightsEnabled": true,
@@ -33,7 +33,7 @@
                         "items": [
                             {
                                 "data": {
-                                    "type": "whispers"
+                                    "type": "mentions"
                                 },
                                 "filters": [
                                 ],
@@ -44,7 +44,7 @@
                             },
                             {
                                 "data": {
-                                    "type": "mentions"
+                                    "type": "whispers"
                                 },
                                 "filters": [
                                 ],
@@ -75,6 +75,7 @@
                 },
                 {
                     "highlightsEnabled": true,
+                    "selected": true,
                     "splits2": {
                         "data": {
                             "name": "l4k3",
@@ -121,7 +122,6 @@
                 },
                 {
                     "highlightsEnabled": true,
-                    "selected": true,
                     "splits2": {
                         "flexh": 1,
                         "flexv": 1,
@@ -275,9 +275,9 @@
                 }
             ],
             "type": "main",
-            "width": 637,
-            "x": 766,
-            "y": 114
+            "width": 672,
+            "x": 1994,
+            "y": 36
         }
     ]
 }
