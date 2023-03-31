@@ -653,7 +653,7 @@
             {
                 "name": "broadcaster",
                 "displayName": "Broadcaster",
-                "showInMentions": false,
+                "showInMentions": true,
                 "alert": true,
                 "sound": false,
                 "soundUrl": "",
@@ -699,7 +699,8 @@
         "highlightSoundPath": "",
         "firstMessageHighlight": {
             "highlighted": false
-        }
+        },
+        "highlights": []
     },
     "notifications": {
         "enableFlashTaskbar": true,
@@ -712,5 +713,8 @@
             "jandsz"
         ],
         "highlightSoundPath": ""
+    },
+    "links": {
+        "linkInfoTooltip": true
     }
 }
