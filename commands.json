@@ -122,8 +122,13 @@
         },
         {
             "name": "p",
-            "func": "Pepega Clap",
+            "func": "Pepega Clap {1+}",
             "showInMsgContextMenu": false
+        },
+        {
+            "name": "/nomep",
+            "func": "PepoCheer Nomep PepoCheer {1+}",
+            "showInMsgContextMenu": true
         }
     ]
 }
