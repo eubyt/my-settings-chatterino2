@@ -567,6 +567,9 @@
         "lastSelectChannelTab": 0,
         "lastSelectIrcConn": -1
     },
+    "accounts": {
+
+    },
     "emotes": {
         "emojiSet": "Google",
         "enableEmoteImages": true,
@@ -628,7 +631,7 @@
             },
             {
                 "name": "Anti-L4k3-Bot",
-                "filter": "!((author.name match r\"^(l4k3)\") || (message.content match r\"^(TWITCH SUSPENDEU MEUS PAGAMENTOS, SE QUISER FORTALECER A LIVE USE O !PIX|META DE DONATIONS ATUAL|Nós estamos buscando a parceria|Não tem tempo pra assistir lives|Esse é nosso planejamento de stream|Regras:|LURK:|Caso a live esteja travando experimente colocar ela em 160p|SFX's DISPONIVEIS:|Em 01/07/2020 nós alcançamos nossa|Instalem a extensão da BetterTTV no seu navegador para ver os emotes extra do canal|ME SIGA NAS REDES SOCIAIS|Participe da nossa comunidade no Discord|A forma mais fácil de se tornar SUB é assinando a Amazon Prime|Não hesite em clipar um momento marcante da live|Também estou ao vivo nas seguintes plataformas|QUER ME AJUDAR DE ALGUMA FORMA?)\"))",
+                "filter": "!((author.name match r\"^(l4k3)\") || (message.content match r\"^(TWITCH SUSPENDEU MEUS PAGAMENTOS, SE QUISER FORTALECER A LIVE USE O !PIX|META DE DONATIONS ATUAL|Nós estamos buscando a parceria|Não tem tempo pra assistir lives|https://amzn.to/2nxQp9n|Esse é nosso planejamento de stream|Regras:|LURK:|Caso a live esteja travando experimente colocar ela em 160p|SFX's DISPONIVEIS:|Em 01/07/2020 nós alcançamos nossa|Instalem a extensão da BetterTTV no seu navegador para ver os emotes extra do canal|ME SIGA NAS REDES SOCIAIS|Participe da nossa comunidade no Discord|A forma mais fácil de se tornar SUB é assinando a Amazon Prime|Não hesite em clipar um momento marcante da live|Também estou ao vivo nas seguintes plataformas|Obrigado Microsoft|QUER ME AJUDAR DE ALGUMA FORMA?)\"))",
                 "id": "e02ef75d-3957-409d-93fe-13a660321a31"
             },
             {
